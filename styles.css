@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(135,206,235);
+}
+.list{
+	width:50%;
+}
+#list-item{
+	padding:10px
+
+}
+.item{
+	background-color:white;
+	font-size:22px
+}
+.pink{
+	background-color:pink;
+}
+.gray{
+	background-color:gray;
+}
